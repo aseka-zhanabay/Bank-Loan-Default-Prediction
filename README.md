@@ -32,14 +32,7 @@ The notebook also imports LightGBM, but does not include it in the final model c
 
 Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, and LightGBM (imported).
 
-## Repository Contents
 
-```text
-Bank-Loan-Default-Prediction/
-├── Assesment2_2_2.ipynb   # Analysis and modelling notebook
-├── README.md              # Project documentation
-└── east_midlands.csv      # Required input data (add only if sharing is permitted)
-```
 
 ## Getting Started
 
